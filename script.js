@@ -8,6 +8,9 @@ async function loadCards() {
   try {
     const response = await fetch('json/digimon.json');
     cards = await response.json();  // Assign the loaded cards globally
+    cards = cards.filter(card => {
+      return card.customAttributes.cardType?.length > 0;
+    });
   } catch (error) {
     console.error('Error loading cards:', error);
     cards = [];
