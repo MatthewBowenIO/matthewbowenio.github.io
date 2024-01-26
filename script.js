@@ -3,6 +3,8 @@ let cardAbilities = [];
 let inheritedAbilities = [];
 let color = [];
 let level = [];
+let sortDirection = '';
+let sortBy = '';
 
 let USDollar = new Intl.NumberFormat('en-US', {
     style: 'currency',
@@ -116,6 +118,49 @@ function search() {
   });
 }
 
+function sort() {
+  cards.sort((a, b) => {
+    if (sortDirection == 'asc') {
+      if (sortBy == 'price') {
+        return a.lowestPriceWithShipping - b.lowestPriceWithShipping;
+      } else if (sortBy == 'play_cost') {
+        return a.customAttributes.playCost - b.customAttributes.playcost;
+      } else if (sortBy == 'digivolution_cost') {
+        return a.customAttributes.digivolve1Cost - b.customAttributes.digivolve1Cost;
+      }
+    }
+    else if (sortDirection == 'desc') {
+      if (sortBy == 'price') {
+        return b.lowestPriceWithShipping - a.lowestPriceWithShipping;
+      } else if (sortBy == 'play_cost') {
+        return b.customAttributes.playCost - a.customAttributes.playcost;
+      } else if (sortBy == 'digivolution_cost') {
+        return b.customAttributes.digivolve1Cost - a.customAttributes.digivolve1Cost;
+      }
+    }
+});
+
+  search();
+}
+
+function clearFilters() {
+  const resultsContainer = document.getElementById('resultsContainer');
+  resultsContainer.innerHTML = '';
+   cardAbilities = [];
+ inheritedAbilities = [];
+ color = [];
+ level = [];
+ sortDirection = '';
+ sortBy = '';
+ $('#cardAbilities').val([]);
+ $('#inheritedAbilities').val([]);
+ $('#color').val([]);
+ $('#levelLv').val([]);
+  $("#levelLv").prop('selectedIndex', 2);
+ $('#sortDirection').val([]);
+ $('#sortBy').val([]);
+}
+
  loadCards();
  //loadSearchOptions();
 
@@ -138,4 +183,12 @@ $('#color').on('change', function(){
 
 $('#levelLv').on('change', function(){
     level = [...$('#levelLv').val()]
+});
+
+$('#sortDirection').on('change', function(){
+    sortDirection = $('#sortDirection').val();
+});
+
+$('#sortBy').on('change', function(){
+    sortBy = $('#sortBy').val();
 });

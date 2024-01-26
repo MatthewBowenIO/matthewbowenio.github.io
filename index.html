@@ -49,7 +49,7 @@
       <option value="White">White</option>
     </select>
 
-    <select id="levelLv" class="selectpicker" multiple data-live-search="true" title="Level">
+    <select id="levelLv" class="selectpicker" data-live-search="true" title="Level">
       <option value="1">1</option>
       <option value="2">2</option>
       <option value="3">3</option>
@@ -60,6 +60,22 @@
     </select>
 
     <button onclick="search()">Search</button>
+  </div>
+      <div class="search-options">
+
+
+    <select id="sortBy" class="selectpicker" data-live-search="true" title="Sort By">
+      <option value="price">Price</option>
+      <option value="play_cost">Play Cost</option>
+      <option value="digivolution_cost">Digivolution Cost</option>
+    </select>
+
+        <select id="sortDirection" class="selectpicker" data-live-search="true" title="Sort Direction">
+      <option value="asc">Ascending</option>
+      <option value="desc">Descending</option>
+    </select>
+
+    <button onclick="sort()">Sort</button>
   </div>
   </div>
 
