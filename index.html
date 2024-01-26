@@ -65,9 +65,9 @@
 
 
     <select id="sortBy" class="selectpicker" data-live-search="true" title="Sort By">
-      <option value="price">Price</option>
-      <option value="play_cost">Play Cost</option>
-      <option value="digivolution_cost">Digivolution Cost</option>
+      <option value="lowestPrice">Price</option>
+      <option value="playCost">Play Cost</option>
+      <option value="digivolve1Cost">Digivolution Cost</option>
     </select>
 
         <select id="sortDirection" class="selectpicker" data-live-search="true" title="Sort Direction">
@@ -75,7 +75,14 @@
       <option value="desc">Descending</option>
     </select>
 
-    <button onclick="sort()">Sort</button>
+    <button onclick="buttonSort()">Sort</button>
+  </div>
+  <div class="search-options">
+    <select id="printingVersions" class="selectpicker" data-live-search="true" title="Printings">
+      <option value="all" selected>All</option>
+      <option value="cheapest">Cheapest</option>
+    </select>
+
   </div>
   </div>
 
