@@ -4,6 +4,11 @@ let inheritedAbilities = [];
 let color = [];
 let level = [];
 
+let USDollar = new Intl.NumberFormat('en-US', {
+    style: 'currency',
+    currency: 'USD',
+});
+
 async function loadCards() {
   try {
     const response = await fetch('json/digimon.json');
@@ -93,7 +98,19 @@ function search() {
     const imageSrc = `images/${card.productId}.jpg`;
     const imageElement = document.createElement('img');
     imageElement.src = imageSrc;
+
+    imageElement.setAttribute('data-product-id', card.productId);
+
+    imageElement.addEventListener('click', event => {
+      window.open(`https://www.tcgplayer.com/product/${event.target.dataset.productId}?utm_campaign=affiliate&utm_medium=5176242&utm_source=5176242`, "_blank");
+    });
+
     cardElement.appendChild(imageElement);
+
+    const valueElement = document.createElement('label');
+    valueElement.innerHTML = USDollar.format(card.lowestPriceWithShipping);
+
+    cardElement.appendChild(valueElement);
 
     resultsContainer.appendChild(cardElement);
   });

@@ -1,5 +1,10 @@
 body {
   font-family: Arial, sans-serif;
+
+label {
+    font-weight: bold;
+    text-align: center;
+}
 }
 
 .search-container {
@@ -67,4 +72,5 @@ button {
 .card:hover {
   transform: scale(2.0);
   z-index: 1000;
+  cursor: pointer;
 }
