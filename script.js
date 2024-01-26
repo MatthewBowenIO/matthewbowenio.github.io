@@ -124,7 +124,7 @@ function sort() {
       if (sortBy == 'price') {
         return a.lowestPriceWithShipping - b.lowestPriceWithShipping;
       } else if (sortBy == 'play_cost') {
-        return a.customAttributes.playCost - b.customAttributes.playcost;
+        return a.customAttributes.playCost - b.customAttributes.playCost;
       } else if (sortBy == 'digivolution_cost') {
         return a.customAttributes.digivolve1Cost - b.customAttributes.digivolve1Cost;
       }
@@ -133,7 +133,7 @@ function sort() {
       if (sortBy == 'price') {
         return b.lowestPriceWithShipping - a.lowestPriceWithShipping;
       } else if (sortBy == 'play_cost') {
-        return b.customAttributes.playCost - a.customAttributes.playcost;
+        return b.customAttributes.playCost - a.customAttributes.playCost;
       } else if (sortBy == 'digivolution_cost') {
         return b.customAttributes.digivolve1Cost - a.customAttributes.digivolve1Cost;
       }
@@ -141,24 +141,6 @@ function sort() {
 });
 
   search();
-}
-
-function clearFilters() {
-  const resultsContainer = document.getElementById('resultsContainer');
-  resultsContainer.innerHTML = '';
-   cardAbilities = [];
- inheritedAbilities = [];
- color = [];
- level = [];
- sortDirection = '';
- sortBy = '';
- $('#cardAbilities').val([]);
- $('#inheritedAbilities').val([]);
- $('#color').val([]);
- $('#levelLv').val([]);
-  $("#levelLv").prop('selectedIndex', 2);
- $('#sortDirection').val([]);
- $('#sortBy').val([]);
 }
 
  loadCards();
