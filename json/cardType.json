@@ -1,0 +1,26 @@
+[
+  {
+    "urlValue": "Digimon",
+    "isActive": false,
+    "value": "Digimon",
+    "count": 3225.0
+  },
+  {
+    "urlValue": "Option",
+    "isActive": false,
+    "value": "Option",
+    "count": 542.0
+  },
+  {
+    "urlValue": "Tamer",
+    "isActive": false,
+    "value": "Tamer",
+    "count": 370.0
+  },
+  {
+    "urlValue": "Digi-Egg",
+    "isActive": false,
+    "value": "Digi-Egg",
+    "count": 271.0
+  }
+]

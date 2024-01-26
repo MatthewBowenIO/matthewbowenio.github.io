@@ -1,0 +1,50 @@
+[
+  {
+    "urlValue": "Vaccine",
+    "isActive": false,
+    "value": "Vaccine",
+    "count": 1065.0
+  },
+  {
+    "urlValue": "Virus",
+    "isActive": false,
+    "value": "Virus",
+    "count": 968.0
+  },
+  {
+    "urlValue": "Data",
+    "isActive": false,
+    "value": "Data",
+    "count": 789.0
+  },
+  {
+    "urlValue": "Free",
+    "isActive": false,
+    "value": "Free",
+    "count": 196.0
+  },
+  {
+    "urlValue": "Variable",
+    "isActive": false,
+    "value": "Variable",
+    "count": 107.0
+  },
+  {
+    "urlValue": "Unknown",
+    "isActive": false,
+    "value": "Unknown",
+    "count": 80.0
+  },
+  {
+    "urlValue": "Unidentified",
+    "isActive": false,
+    "value": "Unidentified",
+    "count": 3.0
+  },
+  {
+    "urlValue": "NO DATA",
+    "isActive": false,
+    "value": "NO DATA",
+    "count": 2.0
+  }
+]

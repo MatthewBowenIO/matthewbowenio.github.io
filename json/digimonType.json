@@ -1,0 +1,1580 @@
+[
+  {
+    "urlValue": "Cyborg",
+    "isActive": false,
+    "value": "Cyborg",
+    "count": 252.0
+  },
+  {
+    "urlValue": "Lesser",
+    "isActive": false,
+    "value": "Lesser",
+    "count": 133.0
+  },
+  {
+    "urlValue": "Reptile",
+    "isActive": false,
+    "value": "Reptile",
+    "count": 126.0
+  },
+  {
+    "urlValue": "Beastkin",
+    "isActive": false,
+    "value": "Beastkin",
+    "count": 113.0
+  },
+  {
+    "urlValue": "Beast",
+    "isActive": false,
+    "value": "Beast",
+    "count": 112.0
+  },
+  {
+    "urlValue": "Dragonkin",
+    "isActive": false,
+    "value": "Dragonkin",
+    "count": 110.0
+  },
+  {
+    "urlValue": "Dinosaur",
+    "isActive": false,
+    "value": "Dinosaur",
+    "count": 101.0
+  },
+  {
+    "urlValue": "Holy Warrior/Royal Knight",
+    "isActive": false,
+    "value": "Holy Warrior/Royal Knight",
+    "count": 95.0
+  },
+  {
+    "urlValue": "Insectoid",
+    "isActive": false,
+    "value": "Insectoid",
+    "count": 91.0
+  },
+  {
+    "urlValue": "Puppet",
+    "isActive": false,
+    "value": "Puppet",
+    "count": 86.0
+  },
+  {
+    "urlValue": "Mutant",
+    "isActive": false,
+    "value": "Mutant",
+    "count": 81.0
+  },
+  {
+    "urlValue": "Wizard",
+    "isActive": false,
+    "value": "Wizard",
+    "count": 81.0
+  },
+  {
+    "urlValue": "Machine",
+    "isActive": false,
+    "value": "Machine",
+    "count": 77.0
+  },
+  {
+    "urlValue": "Vegetation",
+    "isActive": false,
+    "value": "Vegetation",
+    "count": 73.0
+  },
+  {
+    "urlValue": "Mammal",
+    "isActive": false,
+    "value": "Mammal",
+    "count": 70.0
+  },
+  {
+    "urlValue": "Holy Beast",
+    "isActive": false,
+    "value": "Holy Beast",
+    "count": 64.0
+  },
+  {
+    "urlValue": "Mini Dragon",
+    "isActive": false,
+    "value": "Mini Dragon",
+    "count": 54.0
+  },
+  {
+    "urlValue": "Fairy",
+    "isActive": false,
+    "value": "Fairy",
+    "count": 53.0
+  },
+  {
+    "urlValue": "Unidentified",
+    "isActive": false,
+    "value": "Unidentified",
+    "count": 48.0
+  },
+  {
+    "urlValue": "Fallen Angel",
+    "isActive": false,
+    "value": "Fallen Angel",
+    "count": 46.0
+  },
+  {
+    "urlValue": "Unknown",
+    "isActive": false,
+    "value": "Unknown",
+    "count": 38.0
+  },
+  {
+    "urlValue": "Undead",
+    "isActive": false,
+    "value": "Undead",
+    "count": 35.0
+  },
+  {
+    "urlValue": "Sea Beast",
+    "isActive": false,
+    "value": "Sea Beast",
+    "count": 35.0
+  },
+  {
+    "urlValue": "Dark Dragon",
+    "isActive": false,
+    "value": "Dark Dragon",
+    "count": 33.0
+  },
+  {
+    "urlValue": "Archangel",
+    "isActive": false,
+    "value": "Archangel",
+    "count": 32.0
+  },
+  {
+    "urlValue": "Dark Animal",
+    "isActive": false,
+    "value": "Dark Animal",
+    "count": 32.0
+  },
+  {
+    "urlValue": "Warrior",
+    "isActive": false,
+    "value": "Warrior",
+    "count": 30.0
+  },
+  {
+    "urlValue": "Evil",
+    "isActive": false,
+    "value": "Evil",
+    "count": 30.0
+  },
+  {
+    "urlValue": "Flame",
+    "isActive": false,
+    "value": "Flame",
+    "count": 28.0
+  },
+  {
+    "urlValue": "Holy Warrior",
+    "isActive": false,
+    "value": "Holy Warrior",
+    "count": 28.0
+  },
+  {
+    "urlValue": "Demon Lord/Seven Great Demon Lords",
+    "isActive": false,
+    "value": "Demon Lord/Seven Great Demon Lords",
+    "count": 28.0
+  },
+  {
+    "urlValue": "Mythical Dragon",
+    "isActive": false,
+    "value": "Mythical Dragon",
+    "count": 27.0
+  },
+  {
+    "urlValue": "Shaman",
+    "isActive": false,
+    "value": "Shaman",
+    "count": 27.0
+  },
+  {
+    "urlValue": "Mollusk",
+    "isActive": false,
+    "value": "Mollusk",
+    "count": 26.0
+  },
+  {
+    "urlValue": "Amphibian",
+    "isActive": false,
+    "value": "Amphibian",
+    "count": 26.0
+  },
+  {
+    "urlValue": "Angel",
+    "isActive": false,
+    "value": "Angel",
+    "count": 25.0
+  },
+  {
+    "urlValue": "Light Dragon",
+    "isActive": false,
+    "value": "Light Dragon",
+    "count": 25.0
+  },
+  {
+    "urlValue": "Bird",
+    "isActive": false,
+    "value": "Bird",
+    "count": 23.0
+  },
+  {
+    "urlValue": "Avian",
+    "isActive": false,
+    "value": "Avian",
+    "count": 23.0
+  },
+  {
+    "urlValue": "Dragon",
+    "isActive": false,
+    "value": "Dragon",
+    "count": 23.0
+  },
+  {
+    "urlValue": "Demon",
+    "isActive": false,
+    "value": "Demon",
+    "count": 21.0
+  },
+  {
+    "urlValue": "Larva",
+    "isActive": false,
+    "value": "Larva",
+    "count": 20.0
+  },
+  {
+    "urlValue": "Cyborg/D-Brigade",
+    "isActive": false,
+    "value": "Cyborg/D-Brigade",
+    "count": 19.0
+  },
+  {
+    "urlValue": "Ceratopsian",
+    "isActive": false,
+    "value": "Ceratopsian",
+    "count": 17.0
+  },
+  {
+    "urlValue": "Beast Knight",
+    "isActive": false,
+    "value": "Beast Knight",
+    "count": 17.0
+  },
+  {
+    "urlValue": "Ancient Dragon",
+    "isActive": false,
+    "value": "Ancient Dragon",
+    "count": 17.0
+  },
+  {
+    "urlValue": "Xros Heart",
+    "isActive": false,
+    "value": "Xros Heart",
+    "count": 17.0
+  },
+  {
+    "urlValue": "Giant Bird",
+    "isActive": false,
+    "value": "Giant Bird",
+    "count": 17.0
+  },
+  {
+    "urlValue": "Holy Beast/Deva",
+    "isActive": false,
+    "value": "Holy Beast/Deva",
+    "count": 17.0
+  },
+  {
+    "urlValue": "Holy Warrior/Royal Knight/X-Antibody",
+    "isActive": false,
+    "value": "Holy Warrior/Royal Knight/X-Antibody",
+    "count": 17.0
+  },
+  {
+    "urlValue": "Cyborg/X Antibody",
+    "isActive": false,
+    "value": "Cyborg/X Antibody",
+    "count": 16.0
+  },
+  {
+    "urlValue": "Baby Dragon",
+    "isActive": false,
+    "value": "Baby Dragon",
+    "count": 16.0
+  },
+  {
+    "urlValue": "Birdkin",
+    "isActive": false,
+    "value": "Birdkin",
+    "count": 15.0
+  },
+  {
+    "urlValue": "Beast/X-Antibody",
+    "isActive": false,
+    "value": "Beast/X-Antibody",
+    "count": 15.0
+  },
+  {
+    "urlValue": "Shaman/Olympos XII",
+    "isActive": false,
+    "value": "Shaman/Olympos XII",
+    "count": 15.0
+  },
+  {
+    "urlValue": "Rock",
+    "isActive": false,
+    "value": "Rock",
+    "count": 14.0
+  },
+  {
+    "urlValue": "Holy Dragon/Four Great Dragons",
+    "isActive": false,
+    "value": "Holy Dragon/Four Great Dragons",
+    "count": 13.0
+  },
+  {
+    "urlValue": "Aquatic",
+    "isActive": false,
+    "value": "Aquatic",
+    "count": 13.0
+  },
+  {
+    "urlValue": "Composite",
+    "isActive": false,
+    "value": "Composite",
+    "count": 13.0
+  },
+  {
+    "urlValue": "Sea Animal",
+    "isActive": false,
+    "value": "Sea Animal",
+    "count": 12.0
+  },
+  {
+    "urlValue": "Mythical Beast",
+    "isActive": false,
+    "value": "Mythical Beast",
+    "count": 12.0
+  },
+  {
+    "urlValue": "Sky Dragon",
+    "isActive": false,
+    "value": "Sky Dragon",
+    "count": 12.0
+  },
+  {
+    "urlValue": "Mini Dragon/Xros Heart",
+    "isActive": false,
+    "value": "Mini Dragon/Xros Heart",
+    "count": 11.0
+  },
+  {
+    "urlValue": "Ghost",
+    "isActive": false,
+    "value": "Ghost",
+    "count": 11.0
+  },
+  {
+    "urlValue": "Beast Dragon/X-Antibody",
+    "isActive": false,
+    "value": "Beast Dragon/X-Antibody",
+    "count": 11.0
+  },
+  {
+    "urlValue": "Holy Warrior/Royal Knight/X Antibody",
+    "isActive": false,
+    "value": "Holy Warrior/Royal Knight/X Antibody",
+    "count": 11.0
+  },
+  {
+    "urlValue": "Demon Lord",
+    "isActive": false,
+    "value": "Demon Lord",
+    "count": 11.0
+  },
+  {
+    "urlValue": "Aquabeast",
+    "isActive": false,
+    "value": "Aquabeast",
+    "count": 11.0
+  },
+  {
+    "urlValue": "Dragonkin/X Antibody",
+    "isActive": false,
+    "value": "Dragonkin/X Antibody",
+    "count": 10.0
+  },
+  {
+    "urlValue": "Ancient Dragonkin",
+    "isActive": false,
+    "value": "Ancient Dragonkin",
+    "count": 10.0
+  },
+  {
+    "urlValue": "Bulb",
+    "isActive": false,
+    "value": "Bulb",
+    "count": 10.0
+  },
+  {
+    "urlValue": "Ankylosaur",
+    "isActive": false,
+    "value": "Ankylosaur",
+    "count": 10.0
+  },
+  {
+    "urlValue": "Mysterious Beast",
+    "isActive": false,
+    "value": "Mysterious Beast",
+    "count": 10.0
+  },
+  {
+    "urlValue": "Composite/Xros Heart",
+    "isActive": false,
+    "value": "Composite/Xros Heart",
+    "count": 10.0
+  },
+  {
+    "urlValue": "Composite/Xros Heart/Blue Flare",
+    "isActive": false,
+    "value": "Composite/Xros Heart/Blue Flare",
+    "count": 10.0
+  },
+  {
+    "urlValue": "Unique",
+    "isActive": false,
+    "value": "Unique",
+    "count": 10.0
+  },
+  {
+    "urlValue": "Beast/X Antibody",
+    "isActive": false,
+    "value": "Beast/X Antibody",
+    "count": 10.0
+  },
+  {
+    "urlValue": "Dinosaur/X Antibody",
+    "isActive": false,
+    "value": "Dinosaur/X Antibody",
+    "count": 10.0
+  },
+  {
+    "urlValue": "Holy Dragon",
+    "isActive": false,
+    "value": "Holy Dragon",
+    "count": 10.0
+  },
+  {
+    "urlValue": "Dark Animal/X Antibody/SoC",
+    "isActive": false,
+    "value": "Dark Animal/X Antibody/SoC",
+    "count": 9.0
+  },
+  {
+    "urlValue": "Armor/Legend-Arms",
+    "isActive": false,
+    "value": "Armor/Legend-Arms",
+    "count": 8.0
+  },
+  {
+    "urlValue": "Evil Dragon/Four Great Dragons",
+    "isActive": false,
+    "value": "Evil Dragon/Four Great Dragons",
+    "count": 8.0
+  },
+  {
+    "urlValue": "Ancient",
+    "isActive": false,
+    "value": "Ancient",
+    "count": 8.0
+  },
+  {
+    "urlValue": "Rock Dragon",
+    "isActive": false,
+    "value": "Rock Dragon",
+    "count": 8.0
+  },
+  {
+    "urlValue": "Undead/X Antibody",
+    "isActive": false,
+    "value": "Undead/X Antibody",
+    "count": 8.0
+  },
+  {
+    "urlValue": "Holy Dragon/Four Great Dragons/Four Sovereigns",
+    "isActive": false,
+    "value": "Holy Dragon/Four Great Dragons/Four Sovereigns",
+    "count": 8.0
+  },
+  {
+    "urlValue": "Earth Dragon",
+    "isActive": false,
+    "value": "Earth Dragon",
+    "count": 8.0
+  },
+  {
+    "urlValue": "Plesiosaur",
+    "isActive": false,
+    "value": "Plesiosaur",
+    "count": 8.0
+  },
+  {
+    "urlValue": "Dragonkin/Xros Heart",
+    "isActive": false,
+    "value": "Dragonkin/Xros Heart",
+    "count": 7.0
+  },
+  {
+    "urlValue": "Ancient Animal",
+    "isActive": false,
+    "value": "Ancient Animal",
+    "count": 7.0
+  },
+  {
+    "urlValue": "Cyborg/Blue Flare",
+    "isActive": false,
+    "value": "Cyborg/Blue Flare",
+    "count": 7.0
+  },
+  {
+    "urlValue": "Mine",
+    "isActive": false,
+    "value": "Mine",
+    "count": 7.0
+  },
+  {
+    "urlValue": "Seraph/Three Great Angels",
+    "isActive": false,
+    "value": "Seraph/Three Great Angels",
+    "count": 7.0
+  },
+  {
+    "urlValue": "Crustacean",
+    "isActive": false,
+    "value": "Crustacean",
+    "count": 7.0
+  },
+  {
+    "urlValue": "Lesser/X Antibody",
+    "isActive": false,
+    "value": "Lesser/X Antibody",
+    "count": 7.0
+  },
+  {
+    "urlValue": "Dragon Warrior",
+    "isActive": false,
+    "value": "Dragon Warrior",
+    "count": 7.0
+  },
+  {
+    "urlValue": "Insectoid/X Antibody",
+    "isActive": false,
+    "value": "Insectoid/X Antibody",
+    "count": 7.0
+  },
+  {
+    "urlValue": "Dark Knight",
+    "isActive": false,
+    "value": "Dark Knight",
+    "count": 7.0
+  },
+  {
+    "urlValue": "Food",
+    "isActive": false,
+    "value": "Food",
+    "count": 6.0
+  },
+  {
+    "urlValue": "CRT/Twilight/Xros Heart",
+    "isActive": false,
+    "value": "CRT/Twilight/Xros Heart",
+    "count": 6.0
+  },
+  {
+    "urlValue": "Weapon/Legend-Arms",
+    "isActive": false,
+    "value": "Weapon/Legend-Arms",
+    "count": 6.0
+  },
+  {
+    "urlValue": "Machine Dragon",
+    "isActive": false,
+    "value": "Machine Dragon",
+    "count": 6.0
+  },
+  {
+    "urlValue": "Cyborg/D-Brigade/DigiPolice",
+    "isActive": false,
+    "value": "Cyborg/D-Brigade/DigiPolice",
+    "count": 6.0
+  },
+  {
+    "urlValue": "Holy Beast/Four Sovereigns",
+    "isActive": false,
+    "value": "Holy Beast/Four Sovereigns",
+    "count": 6.0
+  },
+  {
+    "urlValue": "Beastkin/Boss",
+    "isActive": false,
+    "value": "Beastkin/Boss",
+    "count": 6.0
+  },
+  {
+    "urlValue": "Ancient Animal/Ten Warriors",
+    "isActive": false,
+    "value": "Ancient Animal/Ten Warriors",
+    "count": 6.0
+  },
+  {
+    "urlValue": "Beastkin/X Antibody",
+    "isActive": false,
+    "value": "Beastkin/X Antibody",
+    "count": 6.0
+  },
+  {
+    "urlValue": "Hunter",
+    "isActive": false,
+    "value": "Hunter",
+    "count": 6.0
+  },
+  {
+    "urlValue": "Ancient Holy Warrior",
+    "isActive": false,
+    "value": "Ancient Holy Warrior",
+    "count": 5.0
+  },
+  {
+    "urlValue": "Enhancement/Blue Flare",
+    "isActive": false,
+    "value": "Enhancement/Blue Flare",
+    "count": 5.0
+  },
+  {
+    "urlValue": "Ancient Bird",
+    "isActive": false,
+    "value": "Ancient Bird",
+    "count": 5.0
+  },
+  {
+    "urlValue": "Hunter/Xros Heart",
+    "isActive": false,
+    "value": "Hunter/Xros Heart",
+    "count": 5.0
+  },
+  {
+    "urlValue": "CRT",
+    "isActive": false,
+    "value": "CRT",
+    "count": 5.0
+  },
+  {
+    "urlValue": "Mineral",
+    "isActive": false,
+    "value": "Mineral",
+    "count": 5.0
+  },
+  {
+    "urlValue": "Abnormal",
+    "isActive": false,
+    "value": "Abnormal",
+    "count": 5.0
+  },
+  {
+    "urlValue": "Ancient Birdkin/Ten Warriors",
+    "isActive": false,
+    "value": "Ancient Birdkin/Ten Warriors",
+    "count": 4.0
+  },
+  {
+    "urlValue": "Cherub/Three Great Angels",
+    "isActive": false,
+    "value": "Cherub/Three Great Angels",
+    "count": 4.0
+  },
+  {
+    "urlValue": "Mysterious Bird",
+    "isActive": false,
+    "value": "Mysterious Bird",
+    "count": 4.0
+  },
+  {
+    "urlValue": "Machine/Blue Flare",
+    "isActive": false,
+    "value": "Machine/Blue Flare",
+    "count": 4.0
+  },
+  {
+    "urlValue": "God Beast",
+    "isActive": false,
+    "value": "God Beast",
+    "count": 4.0
+  },
+  {
+    "urlValue": "Wizard/Three Musketeers",
+    "isActive": false,
+    "value": "Wizard/Three Musketeers",
+    "count": 4.0
+  },
+  {
+    "urlValue": "Dragonkin/Big Death-Stars",
+    "isActive": false,
+    "value": "Dragonkin/Big Death-Stars",
+    "count": 4.0
+  },
+  {
+    "urlValue": "Ancient Insect/Ten Warriors",
+    "isActive": false,
+    "value": "Ancient Insect/Ten Warriors",
+    "count": 4.0
+  },
+  {
+    "urlValue": "Evil Dragon",
+    "isActive": false,
+    "value": "Evil Dragon",
+    "count": 4.0
+  },
+  {
+    "urlValue": "Holy Dragon/Deva",
+    "isActive": false,
+    "value": "Holy Dragon/Deva",
+    "count": 4.0
+  },
+  {
+    "urlValue": "Blue Flare",
+    "isActive": false,
+    "value": "Blue Flare",
+    "count": 4.0
+  },
+  {
+    "urlValue": "Ancient Mythical Beast/Ten Warriors",
+    "isActive": false,
+    "value": "Ancient Mythical Beast/Ten Warriors",
+    "count": 4.0
+  },
+  {
+    "urlValue": "Beast Dragon/X Antibody",
+    "isActive": false,
+    "value": "Beast Dragon/X Antibody",
+    "count": 4.0
+  },
+  {
+    "urlValue": "Mutant/Xros Heart",
+    "isActive": false,
+    "value": "Mutant/Xros Heart",
+    "count": 4.0
+  },
+  {
+    "urlValue": "Demon Lord/Bagra Army",
+    "isActive": false,
+    "value": "Demon Lord/Bagra Army",
+    "count": 4.0
+  },
+  {
+    "urlValue": "Ancient Fish",
+    "isActive": false,
+    "value": "Ancient Fish",
+    "count": 3.0
+  },
+  {
+    "urlValue": "Mutant/Bagra Army/Twilight",
+    "isActive": false,
+    "value": "Mutant/Bagra Army/Twilight",
+    "count": 3.0
+  },
+  {
+    "urlValue": "Machine/X Antibody",
+    "isActive": false,
+    "value": "Machine/X Antibody",
+    "count": 3.0
+  },
+  {
+    "urlValue": "Dragonkin/Three Musketeers",
+    "isActive": false,
+    "value": "Dragonkin/Three Musketeers",
+    "count": 3.0
+  },
+  {
+    "urlValue": "Wizard/X Antibody",
+    "isActive": false,
+    "value": "Wizard/X Antibody",
+    "count": 3.0
+  },
+  {
+    "urlValue": "Authority",
+    "isActive": false,
+    "value": "Authority",
+    "count": 3.0
+  },
+  {
+    "urlValue": "General/Blue Flare",
+    "isActive": false,
+    "value": "General/Blue Flare",
+    "count": 3.0
+  },
+  {
+    "urlValue": "Weapon",
+    "isActive": false,
+    "value": "Weapon",
+    "count": 3.0
+  },
+  {
+    "urlValue": "Minor",
+    "isActive": false,
+    "value": "Minor",
+    "count": 3.0
+  },
+  {
+    "urlValue": "Virtue",
+    "isActive": false,
+    "value": "Virtue",
+    "count": 3.0
+  },
+  {
+    "urlValue": "Machine/Three Musketeers",
+    "isActive": false,
+    "value": "Machine/Three Musketeers",
+    "count": 3.0
+  },
+  {
+    "urlValue": "Dark Knight/Twilight",
+    "isActive": false,
+    "value": "Dark Knight/Twilight",
+    "count": 3.0
+  },
+  {
+    "urlValue": "Bird/Twilight/Xros Heart",
+    "isActive": false,
+    "value": "Bird/Twilight/Xros Heart",
+    "count": 3.0
+  },
+  {
+    "urlValue": "Beast/Light Fang",
+    "isActive": false,
+    "value": "Beast/Light Fang",
+    "count": 3.0
+  },
+  {
+    "urlValue": "Dark Dragon/X Antibody",
+    "isActive": false,
+    "value": "Dark Dragon/X Antibody",
+    "count": 3.0
+  },
+  {
+    "urlValue": "Composite/Bagra Army",
+    "isActive": false,
+    "value": "Composite/Bagra Army",
+    "count": 3.0
+  },
+  {
+    "urlValue": "Reptile Man/Xros Heart",
+    "isActive": false,
+    "value": "Reptile Man/Xros Heart",
+    "count": 3.0
+  },
+  {
+    "urlValue": "Dragon/Blue Flare",
+    "isActive": false,
+    "value": "Dragon/Blue Flare",
+    "count": 3.0
+  },
+  {
+    "urlValue": "Magic Knight",
+    "isActive": false,
+    "value": "Magic Knight",
+    "count": 3.0
+  },
+  {
+    "urlValue": "Cherub",
+    "isActive": false,
+    "value": "Cherub",
+    "count": 3.0
+  },
+  {
+    "urlValue": "Enhancement/Xros Heart",
+    "isActive": false,
+    "value": "Enhancement/Xros Heart",
+    "count": 3.0
+  },
+  {
+    "urlValue": "Warrior/X Antibody",
+    "isActive": false,
+    "value": "Warrior/X Antibody",
+    "count": 3.0
+  },
+  {
+    "urlValue": "Demon Lord/Xros Heart",
+    "isActive": false,
+    "value": "Demon Lord/Xros Heart",
+    "count": 3.0
+  },
+  {
+    "urlValue": "Dinosaur/Blue Flare",
+    "isActive": false,
+    "value": "Dinosaur/Blue Flare",
+    "count": 3.0
+  },
+  {
+    "urlValue": "Ability Synthesis Agent",
+    "isActive": false,
+    "value": "Ability Synthesis Agent",
+    "count": 3.0
+  },
+  {
+    "urlValue": "Undead/Bagra Army",
+    "isActive": false,
+    "value": "Undead/Bagra Army",
+    "count": 3.0
+  },
+  {
+    "urlValue": "Demon Lord/Seven Great Demon Lords/X Antibody",
+    "isActive": false,
+    "value": "Demon Lord/Seven Great Demon Lords/X Antibody",
+    "count": 3.0
+  },
+  {
+    "urlValue": "Lesser/X Antibody/SoC",
+    "isActive": false,
+    "value": "Lesser/X Antibody/SoC",
+    "count": 3.0
+  },
+  {
+    "urlValue": "Unique/Legend-Arms",
+    "isActive": false,
+    "value": "Unique/Legend-Arms",
+    "count": 3.0
+  },
+  {
+    "urlValue": "Carnivorous Plant",
+    "isActive": false,
+    "value": "Carnivorous Plant",
+    "count": 3.0
+  },
+  {
+    "urlValue": "Ancient Animal/X Antibody",
+    "isActive": false,
+    "value": "Ancient Animal/X Antibody",
+    "count": 2.0
+  },
+  {
+    "urlValue": "Fire Dragon",
+    "isActive": false,
+    "value": "Fire Dragon",
+    "count": 2.0
+  },
+  {
+    "urlValue": "Super Major",
+    "isActive": false,
+    "value": "Super Major",
+    "count": 2.0
+  },
+  {
+    "urlValue": "Major",
+    "isActive": false,
+    "value": "Major",
+    "count": 2.0
+  },
+  {
+    "urlValue": "Magic Warrior",
+    "isActive": false,
+    "value": "Magic Warrior",
+    "count": 2.0
+  },
+  {
+    "urlValue": "Ancient Mutant/Ten Warriors",
+    "isActive": false,
+    "value": "Ancient Mutant/Ten Warriors",
+    "count": 2.0
+  },
+  {
+    "urlValue": "Holy Bird/Four Sovereigns",
+    "isActive": false,
+    "value": "Holy Bird/Four Sovereigns",
+    "count": 2.0
+  },
+  {
+    "urlValue": "Archangel/X Antibody",
+    "isActive": false,
+    "value": "Archangel/X Antibody",
+    "count": 2.0
+  },
+  {
+    "urlValue": "Rare Animal",
+    "isActive": false,
+    "value": "Rare Animal",
+    "count": 2.0
+  },
+  {
+    "urlValue": "Mothership Agent",
+    "isActive": false,
+    "value": "Mothership Agent",
+    "count": 2.0
+  },
+  {
+    "urlValue": "Galaxy",
+    "isActive": false,
+    "value": "Galaxy",
+    "count": 2.0
+  },
+  {
+    "urlValue": "Mutant/X-Antibody",
+    "isActive": false,
+    "value": "Mutant/X-Antibody",
+    "count": 2.0
+  },
+  {
+    "urlValue": "Machine/D-Brigade",
+    "isActive": false,
+    "value": "Machine/D-Brigade",
+    "count": 2.0
+  },
+  {
+    "urlValue": "Seraph",
+    "isActive": false,
+    "value": "Seraph",
+    "count": 2.0
+  },
+  {
+    "urlValue": "Throne",
+    "isActive": false,
+    "value": "Throne",
+    "count": 2.0
+  },
+  {
+    "urlValue": "Shaman/Olympos XII/Light Fang",
+    "isActive": false,
+    "value": "Shaman/Olympos XII/Light Fang",
+    "count": 2.0
+  },
+  {
+    "urlValue": "Dark Knight/Blue Flare/Twilight",
+    "isActive": false,
+    "value": "Dark Knight/Blue Flare/Twilight",
+    "count": 2.0
+  },
+  {
+    "urlValue": "Unanalyzable/X Program",
+    "isActive": false,
+    "value": "Unanalyzable/X Program",
+    "count": 2.0
+  },
+  {
+    "urlValue": "Mineral/Bagra Army",
+    "isActive": false,
+    "value": "Mineral/Bagra Army",
+    "count": 2.0
+  },
+  {
+    "urlValue": "Mollusk/DigiPolice",
+    "isActive": false,
+    "value": "Mollusk/DigiPolice",
+    "count": 2.0
+  },
+  {
+    "urlValue": "Wizard/Bagra Army",
+    "isActive": false,
+    "value": "Wizard/Bagra Army",
+    "count": 2.0
+  },
+  {
+    "urlValue": "Machine/D-Brigade/DigiPolice",
+    "isActive": false,
+    "value": "Machine/D-Brigade/DigiPolice",
+    "count": 2.0
+  },
+  {
+    "urlValue": "Ice-Snow",
+    "isActive": false,
+    "value": "Ice-Snow",
+    "count": 2.0
+  },
+  {
+    "urlValue": "Throne/Three Great Angels",
+    "isActive": false,
+    "value": "Throne/Three Great Angels",
+    "count": 2.0
+  },
+  {
+    "urlValue": "Dinosaur/X-Antibody",
+    "isActive": false,
+    "value": "Dinosaur/X-Antibody",
+    "count": 2.0
+  },
+  {
+    "urlValue": "Lesser/Night Claw",
+    "isActive": false,
+    "value": "Lesser/Night Claw",
+    "count": 2.0
+  },
+  {
+    "urlValue": "Mineral/Boss",
+    "isActive": false,
+    "value": "Mineral/Boss",
+    "count": 2.0
+  },
+  {
+    "urlValue": "Dark Animal/X Antibody",
+    "isActive": false,
+    "value": "Dark Animal/X Antibody",
+    "count": 2.0
+  },
+  {
+    "urlValue": "Holy Best",
+    "isActive": false,
+    "value": "Holy Best",
+    "count": 2.0
+  },
+  {
+    "urlValue": "Perfect",
+    "isActive": false,
+    "value": "Perfect",
+    "count": 2.0
+  },
+  {
+    "urlValue": "Mutant/Boss",
+    "isActive": false,
+    "value": "Mutant/Boss",
+    "count": 2.0
+  },
+  {
+    "urlValue": "Unidentifed",
+    "isActive": false,
+    "value": "Unidentifed",
+    "count": 2.0
+  },
+  {
+    "urlValue": "Enhancement",
+    "isActive": false,
+    "value": "Enhancement",
+    "count": 2.0
+  },
+  {
+    "urlValue": "Puppet/X Antibody",
+    "isActive": false,
+    "value": "Puppet/X Antibody",
+    "count": 2.0
+  },
+  {
+    "urlValue": "Holy Dragon/Four Great Dragons/X Antibody",
+    "isActive": false,
+    "value": "Holy Dragon/Four Great Dragons/X Antibody",
+    "count": 2.0
+  },
+  {
+    "urlValue": "Ancient Mineral/Ten Warriors",
+    "isActive": false,
+    "value": "Ancient Mineral/Ten Warriors",
+    "count": 2.0
+  },
+  {
+    "urlValue": "Insectoid/Boss",
+    "isActive": false,
+    "value": "Insectoid/Boss",
+    "count": 2.0
+  },
+  {
+    "urlValue": "Mine/Bagra Army",
+    "isActive": false,
+    "value": "Mine/Bagra Army",
+    "count": 2.0
+  },
+  {
+    "urlValue": "Mammal/Night Claw",
+    "isActive": false,
+    "value": "Mammal/Night Claw",
+    "count": 2.0
+  },
+  {
+    "urlValue": "Holy Bird",
+    "isActive": false,
+    "value": "Holy Bird",
+    "count": 2.0
+  },
+  {
+    "urlValue": "Shaman/Olympos XII/Night Claw",
+    "isActive": false,
+    "value": "Shaman/Olympos XII/Night Claw",
+    "count": 2.0
+  },
+  {
+    "urlValue": "Dark Knight/X Antibody",
+    "isActive": false,
+    "value": "Dark Knight/X Antibody",
+    "count": 2.0
+  },
+  {
+    "urlValue": "Ancient Aquabeast/Ten Warriors",
+    "isActive": false,
+    "value": "Ancient Aquabeast/Ten Warriors",
+    "count": 2.0
+  },
+  {
+    "urlValue": "Mammal/X Antibody",
+    "isActive": false,
+    "value": "Mammal/X Antibody",
+    "count": 2.0
+  },
+  {
+    "urlValue": "Weapon/Legend-Arms/Xros Heart",
+    "isActive": false,
+    "value": "Weapon/Legend-Arms/Xros Heart",
+    "count": 2.0
+  },
+  {
+    "urlValue": "Beast/Bagra Army",
+    "isActive": false,
+    "value": "Beast/Bagra Army",
+    "count": 2.0
+  },
+  {
+    "urlValue": "Lesser/Light Fang",
+    "isActive": false,
+    "value": "Lesser/Light Fang",
+    "count": 2.0
+  },
+  {
+    "urlValue": "Monk`",
+    "isActive": false,
+    "value": "Monk`",
+    "count": 2.0
+  },
+  {
+    "urlValue": "NO DATA/Royal Knight/X Antibody",
+    "isActive": false,
+    "value": "NO DATA/Royal Knight/X Antibody",
+    "count": 2.0
+  },
+  {
+    "urlValue": "Shaman/Xros Heart",
+    "isActive": false,
+    "value": "Shaman/Xros Heart",
+    "count": 2.0
+  },
+  {
+    "urlValue": "9000",
+    "isActive": false,
+    "value": "9000",
+    "count": 2.0
+  },
+  {
+    "urlValue": "Ancient Fairy",
+    "isActive": false,
+    "value": "Ancient Fairy",
+    "count": 2.0
+  },
+  {
+    "urlValue": "Mutant/Bagra Army",
+    "isActive": false,
+    "value": "Mutant/Bagra Army",
+    "count": 2.0
+  },
+  {
+    "urlValue": "Ancient Dragon/Ten Warriors",
+    "isActive": false,
+    "value": "Ancient Dragon/Ten Warriors",
+    "count": 2.0
+  },
+  {
+    "urlValue": "Royal Knight",
+    "isActive": false,
+    "value": "Royal Knight",
+    "count": 2.0
+  },
+  {
+    "urlValue": "Reptile/X Antibody",
+    "isActive": false,
+    "value": "Reptile/X Antibody",
+    "count": 2.0
+  },
+  {
+    "urlValue": "Holy Sword/Legend-Arms",
+    "isActive": false,
+    "value": "Holy Sword/Legend-Arms",
+    "count": 2.0
+  },
+  {
+    "urlValue": "Ancient Plant/Ten Warriors",
+    "isActive": false,
+    "value": "Ancient Plant/Ten Warriors",
+    "count": 2.0
+  },
+  {
+    "urlValue": "Fairy/Boss",
+    "isActive": false,
+    "value": "Fairy/Boss",
+    "count": 2.0
+  },
+  {
+    "urlValue": "Reptile/Blue Flare",
+    "isActive": false,
+    "value": "Reptile/Blue Flare",
+    "count": 2.0
+  },
+  {
+    "urlValue": "Holy Beast/X Antibody",
+    "isActive": false,
+    "value": "Holy Beast/X Antibody",
+    "count": 1.0
+  },
+  {
+    "urlValue": "Undead/Twilight",
+    "isActive": false,
+    "value": "Undead/Twilight",
+    "count": 1.0
+  },
+  {
+    "urlValue": "Undead/Bagra Army/Twilight",
+    "isActive": false,
+    "value": "Undead/Bagra Army/Twilight",
+    "count": 1.0
+  },
+  {
+    "urlValue": "Ground Combat Agent",
+    "isActive": false,
+    "value": "Ground Combat Agent",
+    "count": 1.0
+  },
+  {
+    "urlValue": "Intel Acquisition Agent",
+    "isActive": false,
+    "value": "Intel Acquisition Agent",
+    "count": 1.0
+  },
+  {
+    "urlValue": "Tropical Fish",
+    "isActive": false,
+    "value": "Tropical Fish",
+    "count": 1.0
+  },
+  {
+    "urlValue": "Bird Dragon",
+    "isActive": false,
+    "value": "Bird Dragon",
+    "count": 1.0
+  },
+  {
+    "urlValue": "Machine/Xros Heart",
+    "isActive": false,
+    "value": "Machine/Xros Heart",
+    "count": 1.0
+  },
+  {
+    "urlValue": "Beast/Night Claw",
+    "isActive": false,
+    "value": "Beast/Night Claw",
+    "count": 1.0
+  },
+  {
+    "urlValue": "AA Defense Agent",
+    "isActive": false,
+    "value": "AA Defense Agent",
+    "count": 1.0
+  },
+  {
+    "urlValue": "Wizard/Night Claw",
+    "isActive": false,
+    "value": "Wizard/Night Claw",
+    "count": 1.0
+  },
+  {
+    "urlValue": "Evil/X Antibody",
+    "isActive": false,
+    "value": "Evil/X Antibody",
+    "count": 1.0
+  },
+  {
+    "urlValue": "Aquatic/X Antibody",
+    "isActive": false,
+    "value": "Aquatic/X Antibody",
+    "count": 1.0
+  },
+  {
+    "urlValue": "Beast/Bagra Army/Twilight",
+    "isActive": false,
+    "value": "Beast/Bagra Army/Twilight",
+    "count": 1.0
+  },
+  {
+    "urlValue": "Enhancement/Bagra Army/Twilight",
+    "isActive": false,
+    "value": "Enhancement/Bagra Army/Twilight",
+    "count": 1.0
+  },
+  {
+    "urlValue": "Holy Bird/ Four Sovereigns",
+    "isActive": false,
+    "value": "Holy Bird/ Four Sovereigns",
+    "count": 1.0
+  },
+  {
+    "urlValue": "Espionage Agent",
+    "isActive": false,
+    "value": "Espionage Agent",
+    "count": 1.0
+  },
+  {
+    "urlValue": "LCD/Twilight/Xros Heart",
+    "isActive": false,
+    "value": "LCD/Twilight/Xros Heart",
+    "count": 1.0
+  },
+  {
+    "urlValue": "Alien Humanoid/Blue Flare",
+    "isActive": false,
+    "value": "Alien Humanoid/Blue Flare",
+    "count": 1.0
+  },
+  {
+    "urlValue": "Aquablast",
+    "isActive": false,
+    "value": "Aquablast",
+    "count": 1.0
+  },
+  {
+    "urlValue": "Parasite",
+    "isActive": false,
+    "value": "Parasite",
+    "count": 1.0
+  },
+  {
+    "urlValue": "Base Defense Agent",
+    "isActive": false,
+    "value": "Base Defense Agent",
+    "count": 1.0
+  },
+  {
+    "urlValue": "Fairy/Xros Heart",
+    "isActive": false,
+    "value": "Fairy/Xros Heart",
+    "count": 1.0
+  },
+  {
+    "urlValue": "Commander Agent",
+    "isActive": false,
+    "value": "Commander Agent",
+    "count": 1.0
+  },
+  {
+    "urlValue": "Marine Man",
+    "isActive": false,
+    "value": "Marine Man",
+    "count": 1.0
+  },
+  {
+    "urlValue": "Beast/Xros Heart",
+    "isActive": false,
+    "value": "Beast/Xros Heart",
+    "count": 1.0
+  },
+  {
+    "urlValue": "Enhancement/Twilight",
+    "isActive": false,
+    "value": "Enhancement/Twilight",
+    "count": 1.0
+  },
+  {
+    "urlValue": "Armor",
+    "isActive": false,
+    "value": "Armor",
+    "count": 1.0
+  },
+  {
+    "urlValue": "Dark Animal/Twilight",
+    "isActive": false,
+    "value": "Dark Animal/Twilight",
+    "count": 1.0
+  },
+  {
+    "urlValue": "Mini Bird",
+    "isActive": false,
+    "value": "Mini Bird",
+    "count": 1.0
+  },
+  {
+    "urlValue": "Holy Bird/Deva",
+    "isActive": false,
+    "value": "Holy Bird/Deva",
+    "count": 1.0
+  },
+  {
+    "urlValue": "Drgon",
+    "isActive": false,
+    "value": "Drgon",
+    "count": 1.0
+  },
+  {
+    "urlValue": "Ancient Crustacean",
+    "isActive": false,
+    "value": "Ancient Crustacean",
+    "count": 1.0
+  },
+  {
+    "urlValue": "Wizard/Big Death-Stars",
+    "isActive": false,
+    "value": "Wizard/Big Death-Stars",
+    "count": 1.0
+  },
+  {
+    "urlValue": "Reconnaissance Agent",
+    "isActive": false,
+    "value": "Reconnaissance Agent",
+    "count": 1.0
+  },
+  {
+    "urlValue": "Grappling Agent",
+    "isActive": false,
+    "value": "Grappling Agent",
+    "count": 1.0
+  },
+  {
+    "urlValue": "Major/Xros Heart",
+    "isActive": false,
+    "value": "Major/Xros Heart",
+    "count": 1.0
+  },
+  {
+    "urlValue": "Invader",
+    "isActive": false,
+    "value": "Invader",
+    "count": 1.0
+  },
+  {
+    "urlValue": "Alien",
+    "isActive": false,
+    "value": "Alien",
+    "count": 1.0
+  },
+  {
+    "urlValue": "Musical Instrument/Xros Heart",
+    "isActive": false,
+    "value": "Musical Instrument/Xros Heart",
+    "count": 1.0
+  },
+  {
+    "urlValue": "Beastkin/Light Fang",
+    "isActive": false,
+    "value": "Beastkin/Light Fang",
+    "count": 1.0
+  },
+  {
+    "urlValue": "Ceratopian",
+    "isActive": false,
+    "value": "Ceratopian",
+    "count": 1.0
+  },
+  {
+    "urlValue": " Weapon/Legend-Arms",
+    "isActive": false,
+    "value": " Weapon/Legend-Arms",
+    "count": 1.0
+  }
+]

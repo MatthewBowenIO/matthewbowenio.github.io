@@ -1,0 +1,44 @@
+[
+  {
+    "urlValue": "Red",
+    "isActive": false,
+    "value": "Red",
+    "count": 893.0
+  },
+  {
+    "urlValue": "Blue",
+    "isActive": false,
+    "value": "Blue",
+    "count": 799.0
+  },
+  {
+    "urlValue": "Black",
+    "isActive": false,
+    "value": "Black",
+    "count": 770.0
+  },
+  {
+    "urlValue": "Purple",
+    "isActive": false,
+    "value": "Purple",
+    "count": 752.0
+  },
+  {
+    "urlValue": "Yellow",
+    "isActive": false,
+    "value": "Yellow",
+    "count": 733.0
+  },
+  {
+    "urlValue": "Green",
+    "isActive": false,
+    "value": "Green",
+    "count": 705.0
+  },
+  {
+    "urlValue": "White",
+    "isActive": false,
+    "value": "White",
+    "count": 215.0
+  }
+]

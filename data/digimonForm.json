@@ -1,0 +1,56 @@
+[
+  {
+    "urlValue": "Mega",
+    "isActive": false,
+    "value": "Mega",
+    "count": 922.0
+  },
+  {
+    "urlValue": "Rookie",
+    "isActive": false,
+    "value": "Rookie",
+    "count": 763.0
+  },
+  {
+    "urlValue": "Ultimate",
+    "isActive": false,
+    "value": "Ultimate",
+    "count": 706.0
+  },
+  {
+    "urlValue": "Champion",
+    "isActive": false,
+    "value": "Champion",
+    "count": 665.0
+  },
+  {
+    "urlValue": "In-Training",
+    "isActive": false,
+    "value": "In-Training",
+    "count": 270.0
+  },
+  {
+    "urlValue": "Hybrid",
+    "isActive": false,
+    "value": "Hybrid",
+    "count": 107.0
+  },
+  {
+    "urlValue": "Armor Form",
+    "isActive": false,
+    "value": "Armor Form",
+    "count": 44.0
+  },
+  {
+    "urlValue": "D-Reaper",
+    "isActive": false,
+    "value": "D-Reaper",
+    "count": 13.0
+  },
+  {
+    "urlValue": "Unknown",
+    "isActive": false,
+    "value": "Unknown",
+    "count": 3.0
+  }
+]

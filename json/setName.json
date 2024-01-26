@@ -1,0 +1,320 @@
+[
+  {
+    "urlValue": "release-special-booster",
+    "isActive": false,
+    "value": "Release Special Booster",
+    "count": 586.0
+  },
+  {
+    "urlValue": "digimon-promotion-cards",
+    "isActive": false,
+    "value": "Digimon Promotion Cards",
+    "count": 257.0
+  },
+  {
+    "urlValue": "next-adventure",
+    "isActive": false,
+    "value": "Next Adventure",
+    "count": 204.0
+  },
+  {
+    "urlValue": "battle-of-omni",
+    "isActive": false,
+    "value": "Battle of Omni",
+    "count": 184.0
+  },
+  {
+    "urlValue": "double-diamond",
+    "isActive": false,
+    "value": "Double Diamond",
+    "count": 183.0
+  },
+  {
+    "urlValue": "new-awakening",
+    "isActive": false,
+    "value": "New Awakening",
+    "count": 183.0
+  },
+  {
+    "urlValue": "across-time",
+    "isActive": false,
+    "value": "Across Time",
+    "count": 176.0
+  },
+  {
+    "urlValue": "great-legend",
+    "isActive": false,
+    "value": "Great Legend",
+    "count": 173.0
+  },
+  {
+    "urlValue": "dimensional-phase",
+    "isActive": false,
+    "value": "Dimensional Phase",
+    "count": 168.0
+  },
+  {
+    "urlValue": "xros-encounter",
+    "isActive": false,
+    "value": "Xros Encounter",
+    "count": 159.0
+  },
+  {
+    "urlValue": "x-record",
+    "isActive": false,
+    "value": "X Record",
+    "count": 156.0
+  },
+  {
+    "urlValue": "versus-royal-knights",
+    "isActive": false,
+    "value": "Versus Royal Knights",
+    "count": 147.0
+  },
+  {
+    "urlValue": "resurgence-booster",
+    "isActive": false,
+    "value": "Resurgence Booster",
+    "count": 138.0
+  },
+  {
+    "urlValue": "blast-ace",
+    "isActive": false,
+    "value": "Blast Ace",
+    "count": 137.0
+  },
+  {
+    "urlValue": "digital-hazard",
+    "isActive": false,
+    "value": "Digital Hazard",
+    "count": 127.0
+  },
+  {
+    "urlValue": "classic-collection",
+    "isActive": false,
+    "value": "Classic Collection",
+    "count": 127.0
+  },
+  {
+    "urlValue": "draconic-roar",
+    "isActive": false,
+    "value": "Draconic Roar",
+    "count": 111.0
+  },
+  {
+    "urlValue": "alternative-being-booster",
+    "isActive": false,
+    "value": "Alternative Being Booster",
+    "count": 107.0
+  },
+  {
+    "urlValue": "animal-colosseum",
+    "isActive": false,
+    "value": "Animal Colosseum",
+    "count": 106.0
+  },
+  {
+    "urlValue": "new-awakening-pre-release-cards",
+    "isActive": false,
+    "value": "New Awakening Pre-Release Cards",
+    "count": 59.0
+  },
+  {
+    "urlValue": "x-record-pre-release-cards",
+    "isActive": false,
+    "value": "X Record Pre-Release Cards",
+    "count": 59.0
+  },
+  {
+    "urlValue": "battle-of-omni-pre-release-cards",
+    "isActive": false,
+    "value": "Battle of Omni Pre-Release Cards",
+    "count": 57.0
+  },
+  {
+    "urlValue": "dimensional-phase-pre-release-cards",
+    "isActive": false,
+    "value": "Dimensional Phase Pre-Release Cards",
+    "count": 57.0
+  },
+  {
+    "urlValue": "double-diamond-pre-release-cards",
+    "isActive": false,
+    "value": "Double Diamond Pre-Release Cards",
+    "count": 57.0
+  },
+  {
+    "urlValue": "next-adventure-pre-release-cards",
+    "isActive": false,
+    "value": "Next Adventure Pre-Release Cards",
+    "count": 57.0
+  },
+  {
+    "urlValue": "versus-royal-knights-pre-release-cards",
+    "isActive": false,
+    "value": "Versus Royal Knights Pre-Release Cards",
+    "count": 57.0
+  },
+  {
+    "urlValue": "xros-encounter-pre-release-cards",
+    "isActive": false,
+    "value": "Xros Encounter Pre-Release Cards",
+    "count": 57.0
+  },
+  {
+    "urlValue": "across-time-pre-release-cards",
+    "isActive": false,
+    "value": "Across Time Pre-Release Cards",
+    "count": 57.0
+  },
+  {
+    "urlValue": "great-legend-pre-release-cards",
+    "isActive": false,
+    "value": "Great Legend Pre-Release Cards",
+    "count": 57.0
+  },
+  {
+    "urlValue": "revision-pack-cards",
+    "isActive": false,
+    "value": "Revision Pack Cards",
+    "count": 53.0
+  },
+  {
+    "urlValue": "blast-ace-pre-release-cards",
+    "isActive": false,
+    "value": "Blast Ace Pre-Release Cards",
+    "count": 49.0
+  },
+  {
+    "urlValue": "starter-deck-01-gaia-red",
+    "isActive": false,
+    "value": "Starter Deck 01: Gaia Red",
+    "count": 47.0
+  },
+  {
+    "urlValue": "starter-deck-03-heavens-yellow",
+    "isActive": false,
+    "value": "Starter Deck 03: Heaven's Yellow",
+    "count": 36.0
+  },
+  {
+    "urlValue": "starter-deck-09-ultimate-ancient-dragon",
+    "isActive": false,
+    "value": "Starter Deck 09: Ultimate Ancient Dragon",
+    "count": 34.0
+  },
+  {
+    "urlValue": "starter-deck-07-gallantmon",
+    "isActive": false,
+    "value": "Starter Deck 07: Gallantmon",
+    "count": 33.0
+  },
+  {
+    "urlValue": "starter-deck-02-cocytus-blue",
+    "isActive": false,
+    "value": "Starter Deck 02: Cocytus Blue",
+    "count": 33.0
+  },
+  {
+    "urlValue": "starter-deck-14-beelzemon-advanced-deck-set",
+    "isActive": false,
+    "value": "Starter Deck 14: Beelzemon Advanced Deck Set",
+    "count": 32.0
+  },
+  {
+    "urlValue": "starter-deck-04-giga-green",
+    "isActive": false,
+    "value": "Starter Deck 04: Giga Green",
+    "count": 28.0
+  },
+  {
+    "urlValue": "starter-deck-08-ulforce-veedramon",
+    "isActive": false,
+    "value": "Starter Deck 08: Ulforce Veedramon",
+    "count": 27.0
+  },
+  {
+    "urlValue": "starter-deck-12-jesmon",
+    "isActive": false,
+    "value": "Starter Deck 12: Jesmon",
+    "count": 26.0
+  },
+  {
+    "urlValue": "starter-deck-13-ragnaloardmon",
+    "isActive": false,
+    "value": "Starter Deck 13: Ragnaloardmon",
+    "count": 24.0
+  },
+  {
+    "urlValue": "starter-deck-10-parallel-world-tactician",
+    "isActive": false,
+    "value": "Starter Deck 10: Parallel World Tactician",
+    "count": 24.0
+  },
+  {
+    "urlValue": "starter-deck-06-venomous-violet",
+    "isActive": false,
+    "value": "Starter Deck 06: Venomous Violet",
+    "count": 23.0
+  },
+  {
+    "urlValue": "starter-deck-16-wolf-of-friendship",
+    "isActive": false,
+    "value": "Starter Deck 16: Wolf of Friendship",
+    "count": 22.0
+  },
+  {
+    "urlValue": "starter-deck-15-dragon-of-courage",
+    "isActive": false,
+    "value": "Starter Deck 15: Dragon of Courage",
+    "count": 21.0
+  },
+  {
+    "urlValue": "starter-deck-05-machine-black",
+    "isActive": false,
+    "value": "Starter Deck 05: Machine Black",
+    "count": 21.0
+  },
+  {
+    "urlValue": "starter-deck-14-beelzemon-advanced-deck-set-pre-release-cards",
+    "isActive": false,
+    "value": "Starter Deck 14: Beelzemon Advanced Deck Set Pre-Release Cards",
+    "count": 17.0
+  },
+  {
+    "urlValue": "starter-deck-15-dragon-of-courage-pre-release-cards",
+    "isActive": false,
+    "value": "Starter Deck 15: Dragon of Courage Pre-Release Cards",
+    "count": 15.0
+  },
+  {
+    "urlValue": "starter-deck-16-wolf-of-friendship-pre-release-cards",
+    "isActive": false,
+    "value": "Starter Deck 16: Wolf of Friendship Pre-Release Cards",
+    "count": 15.0
+  },
+  {
+    "urlValue": "exceed-apocalypse",
+    "isActive": false,
+    "value": "Exceed Apocalypse",
+    "count": 4.0
+  },
+  {
+    "urlValue": "beginning-observer",
+    "isActive": false,
+    "value": "Beginning Observer",
+    "count": 3.0
+  },
+  {
+    "urlValue": "infernal-ascension",
+    "isActive": false,
+    "value": "Infernal Ascension",
+    "count": 3.0
+  },
+  {
+    "urlValue": "starter-deck-17-double-typhoon-advanced-deck-set",
+    "isActive": false,
+    "value": "Starter Deck 17: Double Typhoon Advanced Deck Set",
+    "count": 2.0
+  }
+]

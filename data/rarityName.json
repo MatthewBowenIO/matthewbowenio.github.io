@@ -1,0 +1,44 @@
+[
+  {
+    "urlValue": "Uncommon",
+    "isActive": false,
+    "value": "Uncommon",
+    "count": 1073.0
+  },
+  {
+    "urlValue": "Rare",
+    "isActive": false,
+    "value": "Rare",
+    "count": 1023.0
+  },
+  {
+    "urlValue": "Common",
+    "isActive": false,
+    "value": "Common",
+    "count": 984.0
+  },
+  {
+    "urlValue": "Promo",
+    "isActive": false,
+    "value": "Promo",
+    "count": 734.0
+  },
+  {
+    "urlValue": "Super Rare",
+    "isActive": false,
+    "value": "Super Rare",
+    "count": 504.0
+  },
+  {
+    "urlValue": "None",
+    "isActive": false,
+    "value": "None",
+    "count": 183.0
+  },
+  {
+    "urlValue": "Secret Rare",
+    "isActive": false,
+    "value": "Secret Rare",
+    "count": 94.0
+  }
+]

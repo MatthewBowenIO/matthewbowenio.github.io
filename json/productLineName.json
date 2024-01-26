@@ -1,0 +1,350 @@
+[
+  {
+    "urlValue": "magic",
+    "isActive": false,
+    "value": "Magic: The Gathering",
+    "count": 88777.0
+  },
+  {
+    "urlValue": "yugioh",
+    "isActive": false,
+    "value": "YuGiOh",
+    "count": 37901.0
+  },
+  {
+    "urlValue": "pokemon",
+    "isActive": false,
+    "value": "Pokemon",
+    "count": 25590.0
+  },
+  {
+    "urlValue": "weiss-schwarz",
+    "isActive": false,
+    "value": "Weiss Schwarz",
+    "count": 21273.0
+  },
+  {
+    "urlValue": "cardfight-vanguard",
+    "isActive": false,
+    "value": "Cardfight Vanguard",
+    "count": 18449.0
+  },
+  {
+    "urlValue": "force-of-will",
+    "isActive": false,
+    "value": "Force of Will",
+    "count": 10337.0
+  },
+  {
+    "urlValue": "dragon-ball-super-ccg",
+    "isActive": false,
+    "value": "Dragon Ball Super CCG",
+    "count": 9029.0
+  },
+  {
+    "urlValue": "heroclix",
+    "isActive": false,
+    "value": "Heroclix",
+    "count": 8281.0
+  },
+  {
+    "urlValue": "card-sleeves",
+    "isActive": false,
+    "value": "Card Sleeves",
+    "count": 8030.0
+  },
+  {
+    "urlValue": "future-card-buddyfight",
+    "isActive": false,
+    "value": "Future Card BuddyFight",
+    "count": 7721.0
+  },
+  {
+    "urlValue": "universus",
+    "isActive": false,
+    "value": "UniVersus",
+    "count": 5193.0
+  },
+  {
+    "urlValue": "playmats",
+    "isActive": false,
+    "value": "Playmats",
+    "count": 5166.0
+  },
+  {
+    "urlValue": "deck-boxes",
+    "isActive": false,
+    "value": "Deck Boxes",
+    "count": 5121.0
+  },
+  {
+    "urlValue": "flesh-and-blood-tcg",
+    "isActive": false,
+    "value": "Flesh and Blood TCG",
+    "count": 4844.0
+  },
+  {
+    "urlValue": "wow",
+    "isActive": false,
+    "value": "WoW",
+    "count": 4735.0
+  },
+  {
+    "urlValue": "digimon-card-game",
+    "isActive": true,
+    "value": "Digimon Card Game",
+    "count": 4595.0
+  },
+  {
+    "urlValue": "funko",
+    "isActive": false,
+    "value": "Funko",
+    "count": 4158.0
+  },
+  {
+    "urlValue": "final-fantasy-tcg",
+    "isActive": false,
+    "value": "Final Fantasy TCG",
+    "count": 3770.0
+  },
+  {
+    "urlValue": "metazoo",
+    "isActive": false,
+    "value": "MetaZoo",
+    "count": 3442.0
+  },
+  {
+    "urlValue": "kryptik-tcg",
+    "isActive": false,
+    "value": "Kryptik TCG",
+    "count": 3209.0
+  },
+  {
+    "urlValue": "wixoss",
+    "isActive": false,
+    "value": "WIXOSS",
+    "count": 3078.0
+  },
+  {
+    "urlValue": "dice-masters",
+    "isActive": false,
+    "value": "Dice Masters",
+    "count": 2723.0
+  },
+  {
+    "urlValue": "akora",
+    "isActive": false,
+    "value": "Akora TCG",
+    "count": 2286.0
+  },
+  {
+    "urlValue": "star-wars-destiny",
+    "isActive": false,
+    "value": "Star Wars: Destiny",
+    "count": 2263.0
+  },
+  {
+    "urlValue": "books",
+    "isActive": false,
+    "value": "Books",
+    "count": 2179.0
+  },
+  {
+    "urlValue": "lightseekers-tcg",
+    "isActive": false,
+    "value": "Lightseekers TCG",
+    "count": 1955.0
+  },
+  {
+    "urlValue": "dragon-ball-z-tcg",
+    "isActive": false,
+    "value": "Dragon Ball Z TCG",
+    "count": 1820.0
+  },
+  {
+    "urlValue": "sorcery-contested-realm",
+    "isActive": false,
+    "value": "Sorcery: Contested Realm",
+    "count": 1775.0
+  },
+  {
+    "urlValue": "one-piece-card-game",
+    "isActive": false,
+    "value": "One Piece Card Game",
+    "count": 1727.0
+  },
+  {
+    "urlValue": "bakugan-tcg",
+    "isActive": false,
+    "value": "Bakugan TCG",
+    "count": 1650.0
+  },
+  {
+    "urlValue": "grand-archive",
+    "isActive": false,
+    "value": "Grand Archive TCG",
+    "count": 1405.0
+  },
+  {
+    "urlValue": "d-and-d-miniatures",
+    "isActive": false,
+    "value": "D & D Miniatures",
+    "count": 1273.0
+  },
+  {
+    "urlValue": "warhammer-age-of-sigmar-champions-tcg",
+    "isActive": false,
+    "value": "Warhammer Age of Sigmar Champions TCG",
+    "count": 1184.0
+  },
+  {
+    "urlValue": "gate-ruler",
+    "isActive": false,
+    "value": "Gate Ruler",
+    "count": 1063.0
+  },
+  {
+    "urlValue": "battle-spirits-saga",
+    "isActive": false,
+    "value": "Battle Spirits Saga",
+    "count": 1053.0
+  },
+  {
+    "urlValue": "argent-saga-tcg",
+    "isActive": false,
+    "value": "Argent Saga TCG",
+    "count": 1000.0
+  },
+  {
+    "urlValue": "storage-albums",
+    "isActive": false,
+    "value": "Storage Albums",
+    "count": 995.0
+  },
+  {
+    "urlValue": "shadowverse-evolve",
+    "isActive": false,
+    "value": "Shadowverse",
+    "count": 953.0
+  },
+  {
+    "urlValue": "the-caster-chronicles",
+    "isActive": false,
+    "value": "The Caster Chronicles",
+    "count": 854.0
+  },
+  {
+    "urlValue": "collectible-storage",
+    "isActive": false,
+    "value": "Collectible Storage",
+    "count": 778.0
+  },
+  {
+    "urlValue": "metax-tcg",
+    "isActive": false,
+    "value": "MetaX TCG",
+    "count": 766.0
+  },
+  {
+    "urlValue": "transformers-tcg",
+    "isActive": false,
+    "value": "Transformers TCG",
+    "count": 733.0
+  },
+  {
+    "urlValue": "exodus-tcg",
+    "isActive": false,
+    "value": "Exodus TCG",
+    "count": 709.0
+  },
+  {
+    "urlValue": "dragoborne",
+    "isActive": false,
+    "value": "Dragoborne",
+    "count": 684.0
+  },
+  {
+    "urlValue": "munchkin-ccg",
+    "isActive": false,
+    "value": "Munchkin CCG",
+    "count": 603.0
+  },
+  {
+    "urlValue": "lorcana-tcg",
+    "isActive": false,
+    "value": "Disney Lorcana",
+    "count": 533.0
+  },
+  {
+    "urlValue": null,
+    "isActive": false,
+    "value": "Axis & Allies",
+    "count": 532.0
+  },
+  {
+    "urlValue": "life-counters",
+    "isActive": false,
+    "value": "Life Counters",
+    "count": 230.0
+  },
+  {
+    "urlValue": "chrono-clash-system",
+    "isActive": false,
+    "value": "Chrono Clash System",
+    "count": 107.0
+  },
+  {
+    "urlValue": "bulk-lots",
+    "isActive": false,
+    "value": "Bulk Lots",
+    "count": 105.0
+  },
+  {
+    "urlValue": "protective-pages",
+    "isActive": false,
+    "value": "Protective Pages",
+    "count": 91.0
+  },
+  {
+    "urlValue": "zombie-world-order-tcg",
+    "isActive": false,
+    "value": "Zombie World Order TCG",
+    "count": 72.0
+  },
+  {
+    "urlValue": "my-little-pony-ccg",
+    "isActive": false,
+    "value": "My Little Pony CCG",
+    "count": 37.0
+  },
+  {
+    "urlValue": "supply-bundles",
+    "isActive": false,
+    "value": "Supply Bundles",
+    "count": 34.0
+  },
+  {
+    "urlValue": "keyforge",
+    "isActive": false,
+    "value": "KeyForge",
+    "count": 19.0
+  },
+  {
+    "urlValue": "alternate-souls",
+    "isActive": false,
+    "value": "Alternate Souls",
+    "count": 14.0
+  },
+  {
+    "urlValue": "card-storage-tins",
+    "isActive": false,
+    "value": "Card Storage Tins",
+    "count": 10.0
+  },
+  {
+    "urlValue": null,
+    "isActive": false,
+    "value": "TCGplayer",
+    "count": 1.0
+  }
+]
