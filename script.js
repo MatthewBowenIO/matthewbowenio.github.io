@@ -5,6 +5,7 @@ let color = [];
 let level = [];
 let sortDirection = '';
 let sortBy = '';
+let cardType = [];
 
 let USDollar = new Intl.NumberFormat('en-US', {
     style: 'currency',
@@ -97,6 +98,7 @@ function search() {
     "customAttributes.inheritedEffect": inheritedAbilities,
     "customAttributes.color": color,
     "customAttributes.levelLv": level,
+    "customAttributes.cardType": [...cardType]
   };
 
   console.log(searchParams);
@@ -122,7 +124,7 @@ function search() {
             imageElement.setAttribute('data-product-id', card.productId);
 
             imageElement.addEventListener('click', event => {
-              window.open(`https://www.tcgplayer.com/product/${event.target.dataset.productId}?utm_campaign=affiliate&utm_medium=5176242&utm_source=5176242`, "_blank");
+              window.open(`https://www.tcgplayer.com/product/${event.target.dataset.productId}?utm_source=impact&utm_medium=affiliate&utm_campaign=DigiDeckMon`, "_blank");
             });
 
             cardElement.appendChild(imageElement);
@@ -234,6 +236,20 @@ $('#sortDirection').on('change', function(){
 
 $('#sortBy').on('change', function(){
     sortBy = $('#sortBy').val();
+});
+
+$('#cardType').on('change', function(){
+    cardType = $('#cardType').val();
+    console.log(cardType == 'Digimon');
+    if (cardType !== 'Digimon') {
+      $('#cardAbilities').hide();
+      $('#inheritedAbilities').hide();
+      $('#levelLv').hide();
+    } else {
+      $('#cardAbilities').show();
+      $('#inheritedAbilities').show();
+      $('#levelLv').show();
+    }
 });
 
 $('#printingVersions').on('change', function(){
