@@ -1,5 +1,36 @@
 import json
 
+def get_release_id(number):
+    print(number)
+    mapping = {
+        'BT01': 1,
+        'BT02': 2,
+        'BT03': 3,
+        'BT04': 4,
+        'BT05': 5,
+        'BT06': 6,
+        'BT07': 7,
+        'BT08': 8,
+        'BT09': 9,
+        'BT10': 10,
+        'BT11': 11,
+        'BT12': 12,
+        'BT13': 13,
+        'BT14': 14,
+        'BT15': 15,
+        'BT16': 16,
+        'BT17': 17,
+        'EX01': 18,
+        'EX02': 19,
+        'EX03': 20,
+        'EX04': 21,
+        'EX05': 22,
+        'EX06': 23,
+        'RB01': 24
+    }
+    
+    return mapping.get(number) 
+
 def escape_strings(data):
     if isinstance(data, str):
         return data.replace("'", "''")
@@ -26,11 +57,12 @@ def generate_insert_statements(data: list) -> list:
         description = escape_strings(custom_attributes.get("description", ""))
         market_price = item.get("marketPrice", 0.0)
         rarity = escape_strings(item.get("rarityName", ""))
-        set_id = 1
-        card_brand_id = 1
+        release_id = get_release_id(custom_attributes.get("number", "").split('-')[0])
+        print(release_id);
+        game_id = 1
         product_id = item.get("productId", "")
         product_id = int(product_id)
-        print(product_id)
+
         affiliate_url = f"https://tcgplayer.pxf.io/Mm3R72?subId1=card-detail-buy&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F{product_id}%3Fpage%3D1"
         
         # Convert specified values to JSON string without spaces
@@ -54,7 +86,7 @@ def generate_insert_statements(data: list) -> list:
         attributes_json = json.dumps(attributes, separators=(',', ':'))
         
         # Construct insert statement
-        insert_statement = f"INSERT INTO card (name, description, price, rarity, set_id, game_id, affiliate_url, attributes) VALUES ('{name}', '{description}', {market_price}, '{rarity}', {set_id}, {card_brand_id}, '{affiliate_url}', '{attributes_json}');"
+        insert_statement = f"INSERT INTO card (name, description, price, rarity, release_id, game_id, affiliate_url, attributes) VALUES ('{name}', '{description}', {market_price}, '{rarity}', {release_id}, {game_id}, '{affiliate_url}', '{attributes_json}');"
         insert_statements.append(insert_statement)
     
     return insert_statements
