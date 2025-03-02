@@ -1,0 +1,26 @@
+[
+  {
+    "urlValue": "Near Mint",
+    "isActive": false,
+    "value": "Near Mint",
+    "count": 1158.0
+  },
+  {
+    "urlValue": "Unopened",
+    "isActive": false,
+    "value": "Unopened",
+    "count": 137.0
+  },
+  {
+    "urlValue": "Lightly Played",
+    "isActive": false,
+    "value": "Lightly Played",
+    "count": 59.0
+  },
+  {
+    "urlValue": "Moderately Played",
+    "isActive": false,
+    "value": "Moderately Played",
+    "count": 5.0
+  }
+]

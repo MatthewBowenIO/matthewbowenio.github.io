@@ -59,9 +59,7 @@ data = {
     "from": 0,
     "size": 50,
     "filters": {
-        "term": {"productLineName": ["digimon-card-game"],            "setName": [
-                "exceed-apocalypse"
-            ]},
+        "term": {"productLineName": ["digimon-card-game"]},
         "range": {},
         "match": {}
     },

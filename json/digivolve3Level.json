@@ -1,0 +1,32 @@
+[
+  {
+    "urlValue": "Tamer",
+    "isActive": false,
+    "value": "Tamer",
+    "count": 23.0
+  },
+  {
+    "urlValue": "6",
+    "isActive": false,
+    "value": "6",
+    "count": 17.0
+  },
+  {
+    "urlValue": "5",
+    "isActive": false,
+    "value": "5",
+    "count": 10.0
+  },
+  {
+    "urlValue": "Stnd.",
+    "isActive": false,
+    "value": "Stnd.",
+    "count": 1.0
+  },
+  {
+    "urlValue": "Sup.",
+    "isActive": false,
+    "value": "Sup.",
+    "count": 1.0
+  }
+]
