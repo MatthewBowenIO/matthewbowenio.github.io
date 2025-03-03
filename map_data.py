@@ -1,4 +1,5 @@
 import json
+import os
 
 def get_release_id(number):
     # Normalize the input by ensuring two digits after prefix
@@ -81,6 +82,10 @@ def generate_insert_statements(data: list) -> list:
         product_id = item.get("productId", "")
         product_id = int(product_id)
 
+        # Check if image exists in /images directory
+        image_path = f"/images/{product_id}.jpg"
+        image_url = f"https://d3pbf736sjoq1j.cloudfront.net/{product_id}.webp" if os.path.exists(image_path) else None
+
         affiliate_url = f"https://tcgplayer.pxf.io/Mm3R72?subId1=card-detail-buy&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F{product_id}%3Fpage%3D1"
         
         # Convert specified values to JSON string without spaces
@@ -99,13 +104,13 @@ def generate_insert_statements(data: list) -> list:
             "securityEffect": custom_attributes.get("securityEffect"),
             "digimonAttribute": custom_attributes.get("digimonAttribute"),
             "digimonType": custom_attributes.get("digimonType"),
-            "tcgPlayerId": product_id,
-            "image_url" : f"https://d3pbf736sjoq1j.cloudfront.net/{product_id}.webp"
+            "tcgPlayerId": product_id
         })
         attributes_json = json.dumps(attributes, separators=(',', ':'))
         
-        # Construct insert statement
-        insert_statement = f"INSERT INTO card (name, description, price, rarity, release_id, game_id, affiliate_url, attributes) VALUES ('{name}', '{description}', {market_price}, '{rarity}', {release_id}, {game_id}, '{affiliate_url}', '{attributes_json}');"
+        # Construct insert statement with image_url as a separate field
+        image_url_value = f"'{image_url}'" if image_url else 'NULL'
+        insert_statement = f"INSERT INTO card (name, description, price, rarity, release_id, game_id, affiliate_url, attributes, image_url) VALUES ('{name}', '{description}', {market_price}, '{rarity}', {release_id}, {game_id}, '{affiliate_url}', '{attributes_json}', {image_url_value});"
         insert_statements.append(insert_statement)
     
     return insert_statements
