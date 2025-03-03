@@ -83,7 +83,9 @@ def generate_insert_statements(data: list) -> list:
         product_id = int(product_id)
 
         # Check if image exists in /images directory
-        image_path = f"/images/{product_id}.jpg"
+        image_path = f"images/{product_id}.jpg"
+        print (image_path)
+        print(os.path.exists(image_path))
         image_url = f"https://d3pbf736sjoq1j.cloudfront.net/{product_id}.webp" if os.path.exists(image_path) else None
 
         affiliate_url = f"https://tcgplayer.pxf.io/Mm3R72?subId1=card-detail-buy&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F{product_id}%3Fpage%3D1"
